@@ -1,0 +1,15 @@
+file-explorer/
+├── backend/
+│   ├── server.js        // Servidor Express 
+│   ├── routes/
+│   │   ├── fileRoutes.js // Rotas para gerenciar arquivos
+│   ├── controllers/
+│   │   ├── fileController.js // Controladores para a lógica de manipulação de arquivos
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── App.js        // Componente principal
+│   │   ├── components/   // Componentes de UI
+│   │   ├── services/     // Comunicação com o backend
+│   ├── package.json
+├── README.md
